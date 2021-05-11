@@ -1,8 +1,5 @@
 
 import numpy as np
-import tensorflow as tf
-
-# softmax = tf.nn.softmax
 
 
 def relu(x):
